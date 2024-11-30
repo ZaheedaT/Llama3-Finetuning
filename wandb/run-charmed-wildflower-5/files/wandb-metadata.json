@@ -1,0 +1,28 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-11-29T13:17:59.984554Z",
+  "program": "/mnt/c/Users/zahee/llama3-finetune/app/main.py",
+  "codePath": "app/main.py",
+  "email": "zaheedatshankie@gmail.com",
+  "root": "/mnt/c/Users/zahee/llama3-finetune",
+  "host": "LAPTOP-1D191269",
+  "username": "zahee",
+  "executable": "/mnt/c/Users/zahee/llama3-finetune/llama-venv/bin/python3",
+  "codePathLocal": "app/main.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "42171658240"
+    }
+  },
+  "memory": {
+    "total": "3819724800"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
