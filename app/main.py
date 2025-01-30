@@ -35,7 +35,7 @@ os.environ["HF_HUB_ENABLE_PARALLEL_DOWNLOAD"] = "1"
 load_dotenv()
 
 
-from transformers.utils.logging import set_verbosity_debug
+from transformers.utils.logging import set_verbosity_debugh
 import transformers.utils.logging as logging
 
 # Enable debug logging
